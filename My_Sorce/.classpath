@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Variable"/>
+	<classpathentry kind="src" path="Java_Impormation"/>
+	<classpathentry kind="src" path="OOP"/>
+	<classpathentry kind="src" path="API"/>
+	<classpathentry kind="src" path="Exception"/>
+	<classpathentry kind="src" path="Java_Util_Package"/>
+	<classpathentry kind="src" path="Conditional_Repetitive_Statement"/>
+	<classpathentry kind="src" path="Operator"/>
+	<classpathentry kind="src" path="ReferenceType"/>
+	<classpathentry kind="src" path="Array_Enum"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="Generic"/>
+	<classpathentry kind="src" path="File"/>
+	<classpathentry kind="src" path="HomeWorkEx"/>
+	<classpathentry kind="src" path="Thread"/>
+	<classpathentry kind="src" path="GUI"/>
+	<classpathentry kind="src" path="Network"/>
+	<classpathentry kind="src" path="JDBC"/>
+	<classpathentry kind="src" path="MVC_Data"/>
+	<classpathentry kind="src" path="JDBC_Tier"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/6/Desktop/commons-dbcp2-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/6/Desktop/commons-pool2-2.4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/6/Desktop/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
