@@ -2,8 +2,8 @@ package PJK;
 
 public class Test {
 	public static void main(String[] args) {
-		String a = "³«ÁØ¾Æ ";
-		String b = "ÇÏÀÌ";
+		String a = "ë‚™ì¤€ì•„";
+		String b = " í•˜ì´";
 		System.out.println(a + b);
 	}
 }
